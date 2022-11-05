@@ -299,7 +299,7 @@ footer > *{
 
 /* media queries */
 
-@media (max-width: 38rem){
+@media (max-width: 40rem){
   .primary-nav{
     position:fixed;
     z-index:1000;
